@@ -101,7 +101,7 @@ public class FrontEndFeatures {
 	public void setLifeExpectency(String lifeExpectency) {
 		this.lifeExpectency = lifeExpectency;
 	}
-	
+	// checking 
 
 	
 }
